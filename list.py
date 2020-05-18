@@ -1,6 +1,6 @@
 a = [1,9,3,4,5,]
 print(a)
-a.append(6,7)
+a.append(6)
 print(a)
 a.extend(8)
 print(a)
