@@ -1,10 +1,8 @@
-a = [1,9,3,4,5,]
+a = [1,9,3,4,5]
 print(a)
-a.append(6,7)
+a.append(6)
 print(a)
-a.extend(8)
-print(a)
-a.insert(12)
+a.insert(12,13)
 print(a)
 a.remove(4)
 print(a)
